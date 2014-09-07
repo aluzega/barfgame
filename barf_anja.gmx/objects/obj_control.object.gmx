@@ -25,9 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if mouse_check_button(mb_left)
+            <string>if mouse_check_button_pressed(mb_left)
 {
 instance_create(mouse_x, mouse_y, obj_sushi1);
+instance_create(mouse_x, mouse_y, obj_plate);
 }
 </string>
           </argument>

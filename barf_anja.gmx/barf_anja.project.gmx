@@ -14,6 +14,7 @@
     <sprite>sprites\spr_belt_corner</sprite>
     <sprite>sprites\spr_belt_corner2</sprite>
     <sprite>sprites\spr_belt_corner3</sprite>
+    <sprite>sprites\spr_plate</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_background1</background>
@@ -26,6 +27,7 @@
     <object>objects\obj_elbow</object>
     <object>objects\obj_belt</object>
     <object>objects\obj_sushi1</object>
+    <object>objects\obj_plate</object>
     <object>objects\obj_control</object>
     <object>objects\obj_belt_corner</object>
     <object>objects\obj_belt_corner2</object>
@@ -35,7 +37,7 @@
     <room>rooms\rm_game</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41889.3160792361</constant>
+    <constant name="GM_build_date">41889.6412627662</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
