@@ -133,7 +133,7 @@ if belt != noone
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>lalala</string>
+            <string>...</string>
           </argument>
         </arguments>
       </action>
@@ -155,7 +155,7 @@ if belt != noone
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>collision with itself</string>
+            <string>...</string>
           </argument>
         </arguments>
       </action>
