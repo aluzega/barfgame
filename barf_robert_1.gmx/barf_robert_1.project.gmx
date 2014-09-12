@@ -32,7 +32,7 @@
     <room>rooms\rm_game</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41888.4918644907</constant>
+    <constant name="GM_build_date">41889.7963150232</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
